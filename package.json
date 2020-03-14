@@ -1,0 +1,18 @@
+{
+  "name": "NodeJsChallenge1",
+  "version": "1.0.0",
+  "description": "Primeiro desafio Nodejs do bootcamp da Rockeatseat",
+  "main": "index.js",
+  "author": "Rennan Oliveira <rennan_neves@live.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts":{
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
